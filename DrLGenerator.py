@@ -39,6 +39,8 @@ def getSurfaceLevel(level, box):
     return surfaceLevel
 
 
+# -------------------------
+# UNUSED:
 # Replaces ground surface with tnt
 # NONSURFACEBLOCKS = [0, 6, 17, 18, 30, 31, 32, 37, 38, 39, 40, 50, 51, 59, 63, 64, 78, 81, 83, 85, 86, 91, 99, 100, 103, 104, 105, 106, 111, 127, 141, 142, 161, 162, 175]
 # for x in xrange(box.minx, box.maxx):
