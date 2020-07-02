@@ -12,7 +12,6 @@ import utilityFunctions as utilityFunctions
 inputs = (
 	("AAAAAAAAAAA", "label"),
 	("Creator: Drake Liang", "label"),
-    ("drakeliang@utexas.edu", "label"),
 	)
 
 def perform(level, box, options):
